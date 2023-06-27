@@ -8,7 +8,7 @@ Amplify.configure(awsExports);
 function App({ signOut }) {
   return (
     <div>
-      <h1>Notes App</h1>
+      <h1>Matsuba Notes App</h1>
       <button onClick={signOut}>Sign out</button>
     </div>
   );
