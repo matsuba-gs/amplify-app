@@ -1,3 +1,11 @@
+# Amplifyハンズオン
+
+↓の教材に沿ってAmplifyプロジェクトの構築を行う
+
+[Amazon Amplify でウェブアプリケーションをデプロイする](https://aws.amazon.com/jp/getting-started/guides/deploy-webapp-amplify/)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
